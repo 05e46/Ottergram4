@@ -3,6 +3,7 @@ Homework #4 Chapter 7 of Book
 
 
 Answer the following questions
+---------------------------------
 When you visit http://localhost:3000 with browser-sync running, do you see the Ottergram page?
 -yes
 Does pressing the Esc key cause the detail image to be hidden and the thumbnails to enlarge?
